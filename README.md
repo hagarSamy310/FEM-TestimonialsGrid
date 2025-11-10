@@ -21,8 +21,8 @@ The layout is fully responsive and adapts smoothly across screen sizes, from a s
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/a-responsive-four-card-feature-section-using-css-grid-bzP8thM6Cq)
-- Live Site URL: (https://fourcardsection711.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/a-fully-responsive-testimonials-grid-NvgH8SdYAn)
+- Live Site URL: (https://testimonialsgrid1011.netlify.app/)
 
 ### Built with
 
